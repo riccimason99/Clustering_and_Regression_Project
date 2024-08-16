@@ -10,10 +10,10 @@ Please see the [full report](https://drive.google.com/file/d/1jAIjHQQxbJbmstnbEr
 
 ## Authors
 
-- Mason Ricci 
+- Mason Ricci [@riccimason99](https://drive.google.com/file/d/1jAIjHQQxbJbmstnbErfZckOt2P0n36Cg/view?usp=sharing)
 - Criothann Morrison
 - Tianmin Zhang
-- Zhipeng Lin
+- Zhipeng Lin [@ZhipengLin123](https://drive.google.com/file/d/1jAIjHQQxbJbmstnbErfZckOt2P0n36Cg/view?usp=sharing](https://github.com/ZhipengLin123)
 
 
 
