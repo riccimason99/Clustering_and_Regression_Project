@@ -13,7 +13,7 @@ Please see the [full report](https://drive.google.com/file/d/1jAIjHQQxbJbmstnbEr
 - Mason Ricci [@riccimason99](https://drive.google.com/file/d/1jAIjHQQxbJbmstnbErfZckOt2P0n36Cg/view?usp=sharing)
 - Criothann Morrison
 - Tianmin Zhang
-- Zhipeng Lin [@ZhipengLin123](https://drive.google.com/file/d/1jAIjHQQxbJbmstnbErfZckOt2P0n36Cg/view?usp=sharing](https://github.com/ZhipengLin123)
+- Zhipeng Lin [@ZhipengLin123](https://github.com/ZhipengLin123)
 
 
 
