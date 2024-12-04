@@ -9,9 +9,9 @@ Original file is located at
 # 1.LOAD LIBRARY & DATA
 """
 
-# Commented out IPython magic to ensure Python compatibility.
-# Importing libraries
-# %matplotlib inline
+## Commented out IPython magic to ensure Python compatibility.
+## Importing libraries
+## %matplotlib inline
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
