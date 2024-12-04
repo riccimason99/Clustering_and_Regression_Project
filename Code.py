@@ -9,7 +9,7 @@ Original file is located at
 # 1.LOAD LIBRARY & DATA
 """
 
-# Commented out IPython magic to ensure Python compatibility.
+### Commented out IPython magic to ensure Python compatibility.
 # Importing libraries
 # %matplotlib inline
 import numpy as np
