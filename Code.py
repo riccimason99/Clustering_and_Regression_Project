@@ -9,9 +9,9 @@ Original file is located at
 # 1.LOAD LIBRARY & DATA
 """
 
-# Commented out IPython magic to ensure Python compatibility.
-# Importing libraries
-# %matplotlib inline
+## Commented out IPython magic to ensure Python compatibility.
+## Importing libraries
+## %matplotlib inline
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -47,7 +47,7 @@ afternoon_period=[11,12,13,14]
 evening_period=[15,16,17,18,19]
 night_period=[0,1,2,3,4,20,21,21,22,23]
 
-# get mask
+# get mask#
 is_morning = dataset_time.dt.hour.isin(morning_period)
 is_afternoon = dataset_time.dt.hour.isin(afternoon_period)
 is_evening = dataset_time.dt.hour.isin(evening_period)
